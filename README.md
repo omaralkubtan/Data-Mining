@@ -1,6 +1,6 @@
 # World Cup Data Mining
 
-This is a project that performs data mining on the historical World Cup data from 1930 to 2018. It uses Python libraries such as pandas, plotly, and numpy to explore, analyze, and visualize the data. It also uses MS Excel files to store and manipulate the data.
+This is a project that performs data mining on the historical World Cup data from 1930 to 2022. It uses Python libraries such as pandas, plotly, and numpy to explore, analyze, and visualize the data. It also uses MS Excel files to store and manipulate the data.
 
 ## Data Source
 
