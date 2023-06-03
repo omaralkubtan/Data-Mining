@@ -81,6 +81,6 @@ concerning the database, whether express, implied, statutory, or other. This inc
 fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, 
 whether or not known or discoverable.
 
-## Check the `World Cup Case study.ipynb` file, which contains the case study with documentaion for each code.
+## Check the `World Cup Case study.ipynb` file, which contains the case study with documentaion for each code (Please download the file in order to view the charts).
 
 
